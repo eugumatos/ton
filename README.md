@@ -1,4 +1,4 @@
-# ton
+# Ton Challenge
 
 Run APP
 
