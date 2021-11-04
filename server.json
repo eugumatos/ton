@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis Stan Smith",
+      "price": 299.9,
+      "image": "https://assets.adidas.com/images/w_320,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b47d77eba6f945ea8dabac210127b11e_9366/Tenis_Stan_Smith_Branco_FX5501_01_standard.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tênis Superstar",
+      "price": 399.9,
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/4d31131033b54e67b045ab2f017c6cda_9366/Tenis_Superstar_(UNISSEX)_Branco_FU7714_01_standard.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Ozweego",
+      "price": 549.9,
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/86dbbccdb3db4f5f846eaa7600ee8b42_9366/Tenis_OZWEEGO_Preto_EE6999_01_standard.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tênis Nmd 360 infantil",
+      "price": 299.9,
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e9315241059b4848951eaa6101163502_9366/Tenis_Nmd_360_I_(UNISSEX)_Preto_EE6355_01_standard.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Supercourt",
+      "price": 359.9,
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/41177f8d8cb847afacd7ac3101110875_9366/Tenis_Supercourt_Branco_FY5829_01_standard.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tênis ZX Torsion",
+      "price": 399.9,
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/92531177bbf54d369a98ab1400f3b9f1_9366/Tenis_ZX_Torsion_Azul_EF4343_01_standard.jpg"
+    }
+  ]
+}
