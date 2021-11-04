@@ -56,8 +56,8 @@ export function Cart() {
 
       <ScrollView>
         { cartFormatted.map(productCart => (
-          <>
-            <View key={productCart.id} style={styles.cartProduct}>
+          <View key={productCart.id}>
+            <View style={styles.cartProduct}>
               <Image source={{ uri: productCart.image }} style={styles.cartImg} />
               <Text style={styles.cartDesc}>{productCart.titleFormatted}</Text>
     
@@ -74,7 +74,7 @@ export function Cart() {
               </View>
             </View>
             <Text style={styles.cartSubtotal}>Subtotal: {productCart.subTotal}</Text>
-          </>
+          </View>
         )) }
       </ScrollView>
       <Text style={styles.cartTotal}>TOTAL: {total}</Text>
